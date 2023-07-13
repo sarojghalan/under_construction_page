@@ -2,7 +2,7 @@
 import { ThemeProvider } from "styled-components";
 import { PZTheme } from "@/lib/theme";
 
-export const PZThemeProvider = ({
+export const SGThemeProvider = ({
   children,
 }: {
   children: React.ReactNode;

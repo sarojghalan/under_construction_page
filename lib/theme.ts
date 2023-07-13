@@ -1,6 +1,9 @@
 export const PZTheme = {
   color: {
-    primaryColor: "#f70000",
+    primaryColor: "#000",
     secondaryColor: "#fff",
   },
+  components: {},
+  typography: {},
+  size: {},
 };
